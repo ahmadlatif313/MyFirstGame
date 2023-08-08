@@ -1,0 +1,4 @@
+; di php jadi titik
+\n di php jadi ganti baris
+STDIN membaca karakter
+trim menghapus space kosong di akhir inpuutan
